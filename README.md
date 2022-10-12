@@ -7,7 +7,7 @@ Atualmente, junto ao mestrado, também curso Sistemas de Informação na Univers
 
 Aqui neste repositório você encontrará meus registros de estudo e desenvolvimento no caminho de me tornar um desenvolvedor. 🤓💻
 
-A maioria do conteúdo é focado em **desenvolvimento mobile para iOS**.
+A maioria do conteúdo é focado em **desenvolvimento mobile para iOS**. Você consegue acesso a todos os meus projetos [clicando aqui](https://github.com/mauriciodesm/courseware-content).
 
 <div>
   <img align="center" alt="Swift" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
