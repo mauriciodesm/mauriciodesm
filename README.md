@@ -6,8 +6,12 @@ Paralelamente a isso, decidi há cerca de um ano que iria em busca dos meus sonh
 Atualmente, junto ao mestrado, também curso Sistemas de Informação na Universidade Cruzeiro do Sul. 
 
 Aqui neste repositório você encontrará meus registros de estudo e desenvolvimento no caminho de me tornar um desenvolvedor. 🤓💻
-A maioria do conteúdo é focado em **desenvolvimento mobile para iOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
-          
+
+A maioria do conteúdo é focado em **desenvolvimento mobile para iOS**.
+
+<div>
+  <img align="center" alt="Swift" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+</div>
 
 ##
 <div>
@@ -17,7 +21,8 @@ A maioria do conteúdo é focado em **desenvolvimento mobile para iOS <img src="
 
 ##
 
-No momento trabalho/estudo com:
+
+No momento trabalho/estudo principalmente com a linguagem swift, focada em desenvolvimento mobile. Também estudo sobre front-end (HTML, CSS e Javascript), e em breve atualizarei com alguns projetos que tenho criado para aprendizado.
 
 <div>
    <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
@@ -26,9 +31,16 @@ No momento trabalho/estudo com:
    <img align="center" alt="HTML" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="JS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+</div>
 
+##
 
+Tenho interesse em me aprofundar futuramente em:
 
+<div>
+   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"> 
+   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">       
 </div>
 
 ##
